@@ -1,0 +1,14 @@
+c:\users\orsolya\documents\visual studio 2015\Projects\StrReadWrite\StrReadWrite\bin\Debug\StrReadWrite.exe.config
+c:\users\orsolya\documents\visual studio 2015\Projects\StrReadWrite\StrReadWrite\bin\Debug\StrReadWrite.exe
+c:\users\orsolya\documents\visual studio 2015\Projects\StrReadWrite\StrReadWrite\bin\Debug\StrReadWrite.pdb
+c:\users\orsolya\documents\visual studio 2015\Projects\StrReadWrite\StrReadWrite\obj\Debug\StrReadWrite.csprojResolveAssemblyReference.cache
+c:\users\orsolya\documents\visual studio 2015\Projects\StrReadWrite\StrReadWrite\obj\Debug\MainWindow.g.cs
+c:\users\orsolya\documents\visual studio 2015\Projects\StrReadWrite\StrReadWrite\obj\Debug\App.g.cs
+c:\users\orsolya\documents\visual studio 2015\Projects\StrReadWrite\StrReadWrite\obj\Debug\StrReadWrite_MarkupCompile.cache
+c:\users\orsolya\documents\visual studio 2015\Projects\StrReadWrite\StrReadWrite\obj\Debug\StrReadWrite_MarkupCompile.lref
+c:\users\orsolya\documents\visual studio 2015\Projects\StrReadWrite\StrReadWrite\obj\Debug\MainWindow.baml
+c:\users\orsolya\documents\visual studio 2015\Projects\StrReadWrite\StrReadWrite\obj\Debug\StrReadWrite.g.resources
+c:\users\orsolya\documents\visual studio 2015\Projects\StrReadWrite\StrReadWrite\obj\Debug\StrReadWrite.Properties.Resources.resources
+c:\users\orsolya\documents\visual studio 2015\Projects\StrReadWrite\StrReadWrite\obj\Debug\StrReadWrite.csproj.GenerateResource.Cache
+c:\users\orsolya\documents\visual studio 2015\Projects\StrReadWrite\StrReadWrite\obj\Debug\StrReadWrite.exe
+c:\users\orsolya\documents\visual studio 2015\Projects\StrReadWrite\StrReadWrite\obj\Debug\StrReadWrite.pdb
