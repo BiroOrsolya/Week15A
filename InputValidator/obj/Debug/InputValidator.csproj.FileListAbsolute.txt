@@ -1,0 +1,9 @@
+c:\users\orsolya\documents\visual studio 2015\Projects\InputValidator\InputValidator\bin\Debug\InputValidator.exe.config
+c:\users\orsolya\documents\visual studio 2015\Projects\InputValidator\InputValidator\bin\Debug\InputValidator.exe
+c:\users\orsolya\documents\visual studio 2015\Projects\InputValidator\InputValidator\bin\Debug\InputValidator.pdb
+c:\users\orsolya\documents\visual studio 2015\Projects\InputValidator\InputValidator\obj\Debug\InputValidator.csprojResolveAssemblyReference.cache
+c:\users\orsolya\documents\visual studio 2015\Projects\InputValidator\InputValidator\obj\Debug\InputValidator.Form1.resources
+c:\users\orsolya\documents\visual studio 2015\Projects\InputValidator\InputValidator\obj\Debug\InputValidator.Properties.Resources.resources
+c:\users\orsolya\documents\visual studio 2015\Projects\InputValidator\InputValidator\obj\Debug\InputValidator.csproj.GenerateResource.Cache
+c:\users\orsolya\documents\visual studio 2015\Projects\InputValidator\InputValidator\obj\Debug\InputValidator.exe
+c:\users\orsolya\documents\visual studio 2015\Projects\InputValidator\InputValidator\obj\Debug\InputValidator.pdb
