@@ -8,8 +8,10 @@ using System.Runtime.Serialization;
 namespace CreateClass
 {
     [Serializable]
+
     class Person 
     {
+        [NonSerialized] public int age;
         private string name;
 
         public string Name
